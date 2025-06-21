@@ -57,7 +57,7 @@ const Navbar = () => {
                             setElm('home');
                         }}
                     >
-                        RAJ PARMAR
+                        PARTH MAKWANA
                     </Heading>
                 </Box>
                 <Spacer />
@@ -152,10 +152,10 @@ const Navbar = () => {
                     </Heading>
                     <a onClick={() =>
                         window.open(
-                            `https://drive.google.com/file/d/1Ck_asKSAER4b7pXswbSAVZI6z4o0Y7l4/view?usp=sharing`
+                            `https://drive.google.com/file/d/1r_2M8vLzuBV41tPDhfzjZw-a-owQRXsP/view?usp=drivesdk`
                         )
                     }
-                        href="/fw20_0266-RAJ-PARMAR-RESUME.pdf"
+                        href="/Parth_m_resume.pdf"
                         download
                         target="_blank"
                         rel="noreferrer"

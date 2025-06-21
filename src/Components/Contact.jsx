@@ -49,7 +49,7 @@ const Contact = () => {
                         boxSize="14"
                         cursor={'pointer'}
                         onClick={() =>
-                            window.open('https://www.linkedin.com/in/rajparmar03/')
+                            window.open('https://www.linkedin.com/in/parth-makwana-787643361/')
                         }
                     />
                     <Text fontWeight="bold" fontSize="lg">LinkedIn</Text>
@@ -68,13 +68,13 @@ const Contact = () => {
                 <Flex w="19%" justifyContent="center">
                     {/* <a href="tel : 9033920621"> */}
                         <BiPhoneCall size={30} />
-                        <Text fontWeight="bold" fontSize="lg">9033920621</Text>
+                        <Text fontWeight="bold" fontSize="lg">9662695393</Text>
                     {/* </a> */}
                 </Flex>
                 <Flex w="19%" justifyContent="center">
                     {/* <a href='mailto:rjbusiness03@gmail.com'> */}
                         <AiOutlineMail size={30} />
-                        <Text fontWeight="bold" fontSize="lg">rjbusiness03@gmail.com</Text>
+                        <Text fontWeight="bold" fontSize="lg">mparth952@gmail.com</Text>
                     {/* </a> */}
                 </Flex>
             </Flex>

@@ -5,8 +5,9 @@ import { AppContext } from '../Context/ContextApi';
 
 
 const identity = [
-    'RAJ PARMAR',
-    'MERN Stack Developer',
+    'PARTH MAKWANA',
+    'DATA ANALYST',
+    'GAME DEVELOPER',
     'Tech Enthusiast',
     'Problem Solver',
 ];
@@ -19,7 +20,7 @@ const Home = () => {
                 if (count === 3) return 0;
                 else return count + 1;
             });
-        }, 2000);
+        }, 3000);
     }, []);
 
     const { homeRef } = React.useContext(AppContext);
