@@ -14,7 +14,7 @@ const About = () => {
             ref={aboutRef}
         >
             <Image
-                src="/profilepic_for_portfolio.png"
+                src="/profilepic_for_portfolio.jpeg"
                 borderRadius={'50%'}
                 boxSize="250"
                 border={'2px solid #5b5b5b'}
@@ -37,7 +37,7 @@ const About = () => {
                     About
                 </Heading>
                 <Text fontSize={'18px'} color={'#5b5b5b'} lineHeight="1.5">
-                    Hi 👋, my name is RAJ PARMAR. I am a 25 year old
+                    Hi 👋, my name is PARTH MAKWANA. I am a 25 year old
                     energetic and enthusiastic web developer. Currently,
                     learning full stack web development from Masai School.
                     <br />
